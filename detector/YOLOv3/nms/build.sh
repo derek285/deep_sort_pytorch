@@ -1,5 +1,5 @@
 cd ext
 
-python build.py build_ext develop
+python3 build.py build_ext develop
 
 cd ..
